@@ -16,7 +16,7 @@
 
 .bx-wrapper {
 	position: relative;
-	margin: 0 auto 60px;
+	margin: 0 auto 10px;
 	padding: 0;
 	*zoom: 1;
 }
@@ -30,10 +30,12 @@
 ===================================*/
 
 .bx-wrapper .bx-viewport {
-	-moz-box-shadow: 0 0 5px #ccc;
+/*	-moz-box-shadow: 0 0 5px #ccc;
 	-webkit-box-shadow: 0 0 5px #ccc;
-	box-shadow: 0 0 5px #ccc;
-	border:  5px solid #fff;
+	box-shadow: 0 0 5px #ccc;*/
+	/*border:  5px solid #fff;*/
+        /*custom css*/
+        border:  1px solid #ada4a4;
 	left: -5px;
 	background: #fff;
 	

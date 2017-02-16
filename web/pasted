@@ -1,0 +1,28 @@
+<fieldset>
+                <legend><h3>Bedrooms</h3></legend>
+                <ul>
+                    <li><label><input type="checkbox" value="1" name="1"/>1</label></li>
+                    <li><label><input type="checkbox" value="2" name="2"/>2</label></li>
+                    <li><label><input type="checkbox" value="3" name="3"/>3</label></li>
+                    <li><label><input type="checkbox" value="4+" name="4+"/>4+</label></li>
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend><h3>Bathrooms</h3></legend>
+                <ul>
+
+                    <li><label><input type="checkbox" value="1" name="1"/>1</label></li>
+                    <li><label><input type="checkbox" value="2" name="2"/>2</label></li>
+                    <li><label><input type="checkbox" value="3" name="3"/>3</label></li>
+                    <li><label><input type="checkbox" value="4+" name="4+"/>4+</label></li>
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend><h3>Floors</h3></legend>
+                <ul>
+
+                    <li><label><input type="checkbox" value="1" name="1"/>1</label></li>
+                    <li><label><input type="checkbox" value="2" name="2"/>2</label></li>
+                    <li><label><input type="checkbox" value="3" name="3"/>3</label></li>
+                </ul>
+            </fieldset>
